@@ -559,6 +559,10 @@ body {
     display: flex;
     flex-direction: column;
     color: var(--dark);
+    margin-bottom: 8px;
+}
+
+.modal-form-comment {
     margin-bottom: 16px;
 }
 
